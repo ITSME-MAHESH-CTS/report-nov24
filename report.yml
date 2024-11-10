@@ -4,6 +4,7 @@ city: New York
 is_student: true
 grade:
  - subject: Math
+<<<<<<< HEAD
 grade: C
  - subject: English
 grade: C
