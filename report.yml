@@ -3,9 +3,10 @@ age: 30
 city: New York
 is_student: true
 grade:
-- subject: Math
-grade: B
-- subject: English
-grade: B
-- subject: Science
-grade: B+
+ - subject: Math
+<<<<<<< HEAD
+grade: C
+ - subject: English
+grade: C
+ - subject: Science
+grade: C+
